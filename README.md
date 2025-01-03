@@ -5,6 +5,6 @@ Olá, meu nome é Luis Henrike, sou estudante do curso Tecnólogo em Redes de Co
 Tenho me dedicado especialmente à linguagem Python, com foco em programação estruturada e estrutura de dados. Meu objetivo é combinar habilidades práticas em redes com soluções de software para desenvolver e implementar sistemas eficientes e inovadores.
 
 
-📫 Como me encontrar:
-email: luishenrike001@gmail.com
-linkedin: https://www.linkedin.com/in/luis-henrike-marinho-da-costa-4935922b9/?trk=opento_sprofile_topcard
+##📫 Como me encontrar:
+-email: luishenrike001@gmail.com
+-linkedin: https://www.linkedin.com/in/luis-henrike-marinho-da-costa-4935922b9/?trk=opento_sprofile_topcard
