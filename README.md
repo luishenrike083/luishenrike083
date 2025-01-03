@@ -1,4 +1,8 @@
-## Hi there 👋
+## olá Pessoal, eu sou o Luis Henrike 👋
+
+Olá, meu nome é Luis Henrike, sou estudante do curso Tecnólogo em Redes de Computadores. Atualmente, estou aprofundando meus conhecimentos em configurações de redes, tanto em ambientes LAN quanto WAN, além de explorar o universo da programação.
+
+Tenho me dedicado especialmente à linguagem Python, com foco em programação estruturada e estrutura de dados. Meu objetivo é combinar habilidades práticas em redes com soluções de software para desenvolver e implementar sistemas eficientes e inovadores.
 
 <!--
 **luishenrike083/luishenrike083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
